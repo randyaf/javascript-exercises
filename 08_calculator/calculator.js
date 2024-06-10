@@ -31,7 +31,6 @@ const factorial = function(number) {
   return result;
 };
 
-console.log(factorial(2));
 
 // Do not edit below this line
 module.exports = {
